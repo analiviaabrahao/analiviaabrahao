@@ -6,14 +6,14 @@ Quero compartilhar por aqui alguns dos meus projetos e trabalhos na área de tec
 
 <div>
      <img allign="center" alt="Ana-Nex" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+      <img allign="center" alt="Ana-ts" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
      <img allign="center" alt="Ana-Py" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
      <img allign="center" alt="Ana-Docker" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
       <img allign="center" alt="Ana-postgres" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-     <img allign="center" alt="Ana-postgres" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 
-
+##
 
 
 
