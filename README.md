@@ -1,4 +1,10 @@
-## Hi there 👋
+## olá, eu sou a Ana Lívia Abrahão 
+
+Quero compartilhar por aqui alguns dos meus projetos e trabalhos na área de tecnologia!
+
+Rafa-Js Rafa-Ts Rafa-React Rafa-HTML Rafa-CSS Rafa-Python Rafa-Csharp
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/analiviabrahao@gmail.com
+     
 
 <!--
 **analiviaabrahao/analiviaabrahao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
