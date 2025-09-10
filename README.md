@@ -3,7 +3,7 @@
 Quero compartilhar por aqui alguns dos meus projetos e trabalhos na área de tecnologia!
 
 <div>
-<a href=c"mailto:analiviabrahao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 </div>
