@@ -1,9 +1,15 @@
-## Olá, eu sou a Ana Lívia Abrahão 
+## Olá, eu sou a Ana Lívia Abrahão. Muito Prazer!
 
 Quero compartilhar por aqui alguns dos meus projetos e trabalhos na área de tecnologia!
 
+#
+
 <div>
-     <img allign="center" alt="Ana-Js" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+     <img allign="center" alt="Ana-Nex" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+     <img allign="center" alt="Ana-Py" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+     <img allign="center" alt="Ana-Docker" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+      <img allign="center" alt="Ana-postgres" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+     <img allign="center" alt="Ana-postgres" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
 
