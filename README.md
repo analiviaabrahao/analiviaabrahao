@@ -2,7 +2,7 @@
 
 Quero compartilhar por aqui alguns dos meus projetos e trabalhos na área de tecnologia!
 
-#
+
 
 <div>
      <img allign="center" alt="Ana-Nex" heigt="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
