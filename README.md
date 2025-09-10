@@ -1,4 +1,4 @@
-## Olá, eu sou a Ana Lívia Abrahão. Muito Prazer!
+## Olá, eu sou a Ana Lívia Abrahão. Muito Prazer! ✨
 
 Quero compartilhar por aqui alguns dos meus projetos e trabalhos na área de tecnologia!
 
