@@ -3,11 +3,10 @@
 Quero compartilhar por aqui alguns dos meus projetos e trabalhos na área de tecnologia!
 
 <div>
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/analiviabrahao@gmail.com
-
-     Rafa-Js Rafa-Ts Rafa-React Rafa-HTML Rafa-CSS Rafa-Python Rafa-Csharp
-</div>
 <a href=c"mailto:analiviabrahao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
+</div>
      
 
 <!--
